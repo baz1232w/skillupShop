@@ -106,7 +106,7 @@ header{
 .loop{
     width: 30px;
     height: 30px;
-    background: url("assets/png/icon (4).png") no-repeat center #2c71b8;
+    background: url("assets/png/icon(4).png") no-repeat center #2c71b8;
 
     transition: opacity .2s ease-in-out;
     cursor: pointer;
@@ -117,7 +117,7 @@ header{
 
     width: 40px;
     height: 40px;
-    background: url("assets/png/icon (1).png") no-repeat center #fff;
+    background: url("assets/png/icon(1).png") no-repeat center #fff;
 
     transition: background-color .2s linear;
     cursor: pointer;
@@ -154,7 +154,7 @@ header{
     }
     
     .cart:hover{
-        background: url("assets/png/icon (2).png") no-repeat center #2c71b8;
+        background: url("assets/png/icon(2).png") no-repeat center #2c71b8;
     }
 
     .menu_li a:hover{
